@@ -4,7 +4,6 @@
 
 # DevOps CI/CD Automation Demo
 
-![CI/CD Pipeline](https://github.com/Nyanners31/devops-automation-demo/actions/workflows/ci-cd.yml/badge.svg)
 
 An automated continuous integration and continuous deployment pipeline built with **GitHub Actions**.
 
