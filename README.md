@@ -1,0 +1,1 @@
+[![DevOps CI/CD Pipeline](https://github.com/Nyanners31/devops-automation-demo/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Nyanners31/devops-automation-demo/actions/workflows/ci-cd.yml)
